@@ -12,7 +12,7 @@ Latest version is usually recommended, otherwise read the project description to
 
 In Unity click `Open` and select the `String Theory` directory at the root of this repository.
 
-* Tested with version 2018.2.1f
+* Tested with version 2018.2.3f1
 
 # Development
 
